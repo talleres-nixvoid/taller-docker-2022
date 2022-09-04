@@ -1,0 +1,5 @@
+services:
+  taller-docker-demo:
+    image: taller-docker
+    ports:
+      - '3000:3000'
